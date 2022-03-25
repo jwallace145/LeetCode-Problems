@@ -1,0 +1,2 @@
+# LeetCode Problems Repository
+This repository contains folders with LeetCode problems and solutions that contain in-depth analysis of time-complexity and space-complexity utilized by the solution. Each problem directory also contains a test suite to effectively test against your solutions.
